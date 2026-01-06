@@ -89,7 +89,7 @@ jobs:
           Section: utils
           Priority: optional
           Architecture: all
-          Depends: python3, python3-gi, python3-dbus, gir1.2-gtk-3.0, gir1.2-appindicator3-0.1, gir1.2-notify-0.7, gir1.2-upowerglib-1.0, polkitd, udev
+          Depends: python3, python3-gi, python3-dbus, gir1.2-gtk-3.0, gir1.2-appindicator3-0.1, gir1.2-notify-0.7, gir1.2-upowerglib-1.0, polkitd, udev, mesa-utils
           Maintainer: Matt Hartley <mrh@frame.work>
           Description: Manual GPU switching and automatic power profile management
            System tray application for manual GPU mode switching on NVIDIA Optimus
