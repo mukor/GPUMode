@@ -59,6 +59,8 @@ System tray application for manual GPU mode switching on Ubuntu laptops with AMD
 
 The tray icon will auto-start on login.
 
+To build from source, see [BUILD.md](BUILD.md).
+
 ---
 
 ## Usage
